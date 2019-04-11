@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "cobeli",
+        "ivgtt",
+        "nhgb",
+        "strin"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true
+}
