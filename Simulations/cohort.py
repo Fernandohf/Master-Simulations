@@ -598,7 +598,7 @@ class Subject():
         # Glicose
         G_ax.set_xlabel('Tempo [H:M]')
         G_ax.set_ylabel('Concentração de Glicose [mmol/L]')
-        #G_ax.set_ylim((4, 10))
+        # G_ax.set_ylim((4, 10))
         G_ax.xaxis.set_major_formatter(formatter)
         G_ax.xaxis.set_major_locator(locator)
 
